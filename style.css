@@ -12,14 +12,6 @@ body{
     font-family: 'Montserrat';
 }
 
-/* .container{
-    width: 60%;
-    margin: auto;
-    margin-top: 6rem;
-    border: solid 1px;
-    background-color: white;
-} */
-
 .head{
     text-align: center;
     padding: 0.5rem;
@@ -34,7 +26,6 @@ body{
 .container .main{
     display: flex;
     justify-content:space-evenly;
-    /* padding: 0 10rem; */
 }
 
 .form_top h3, .form_bottom h3{
@@ -104,7 +95,6 @@ select{
 
 .button{
     text-align:right;
-    /* margin-bottom: 3rem; */
 }
 
 .submit_button{
@@ -182,14 +172,12 @@ h4{
     justify-content: space-between;
     margin: 0 5rem 0 1.2rem;
     border-top: 0.5px rgb(172, 170, 170) solid;
-    /* padding: 2.3rem 5rem 0 1.2rem;     */
 }
 .total{
     display: flex;
     justify-content: space-between;
     margin: 0.5rem 5rem 0 1.2rem;
     border-top: 0.5px rgb(171, 168, 168) solid;
-    /* padding: 0.5rem 5rem 0 1.2rem; */
 }
 
 .grey-2{
